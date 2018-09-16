@@ -31,18 +31,18 @@
       }
     ],
     [{
-        "name": "",
+        "name": "Физ. воспит.",
         "teacher": "",
         "classroom": "",
-        "timeStart": "",
-        "timeEnd": ""
+        "timeStart": "9:45",
+        "timeEnd": "11:05"
       },
       {
-        "name": "",
+        "name": "Физ. воспит.",
         "teacher": "",
         "classroom": "",
-        "timeStart": "",
-        "timeEnd": ""
+        "timeStart": "9:45",
+        "timeEnd": "11:05"
       }
     ],
     [{
@@ -61,16 +61,16 @@
       }
     ],
     [{
-        "name": "",
-        "teacher": "",
-        "classroom": "",
-        "timeStart": "",
-        "timeEnd": ""
+        "name": "Технологии разработки БД",
+        "teacher": "Балалаечников",
+        "classroom": "207(12)",
+        "timeStart": "14:35",
+        "timeEnd": "15:55"
       },
       {
-        "name": "Теория инф. процессов",
-        "teacher": "Кийко С.А.",
-        "classroom": "405(1)",
+        "name": "Технологии разработки БД",
+        "teacher": "Балалаечников",
+        "classroom": "207(12)",
         "timeStart": "14:35",
         "timeEnd": "15:55"
       }
@@ -79,14 +79,14 @@
   [
     [{
         "name": "Защита информации",
-        "teacher": "Кийко С.А.",
+        "teacher": "Зверева О.С.",
         "classroom": "412(1)",
         "timeStart": "8:15",
         "timeEnd": "9:35"
       },
       {
         "name": "Защита информации",
-        "teacher": "Кийко С.А.",
+        "teacher": "Зверева О.С.",
         "classroom": "412(1)",
         "timeStart": "8:15",
         "timeEnd": "9:35"
@@ -171,7 +171,7 @@
     ],
     [{
         "name": "Теория инф. процессов",
-        "teacher": "Кийко С.А.",
+        "teacher": "Хомутов А.А.",
         "classroom": "422(1)",
         "timeStart": "9:45",
         "timeEnd": "11:05"
@@ -186,14 +186,14 @@
     ],
     [{
         "name": "СПО",
-        "teacher": "хз кто",
+        "teacher": "Грубич-Борисенко",
         "classroom": "412(1)",
         "timeStart": "11:35",
         "timeEnd": "12:55"
       },
       {
         "name": "СПО",
-        "teacher": "хз кто",
+        "teacher": "Грубич-Борисенко",
         "classroom": "412(1)",
         "timeStart": "11:35",
         "timeEnd": "12:55"
@@ -278,17 +278,17 @@
     ],
     [{
         "name": "Защита иформации",
-        "teacher": "Кийко А.В.",
+        "teacher": "Зверева О.С.",
         "classroom": "43(А)",
         "timeStart": "13:05",
         "timeEnd": "14:25"
       },
       {
-        "name": "",
-        "teacher": "",
-        "classroom": "",
-        "timeStart": "",
-        "timeEnd": ""
+        "name": "Защита иформации",
+        "teacher": "Зверева О.С.",
+        "classroom": "43(А)",
+        "timeStart": "13:05",
+        "timeEnd": "14:25"
       }
     ],
     [{
@@ -325,14 +325,14 @@
     ],
     [{
         "name": "Ин. Яз.",
-        "teacher": "Бандарчук",
+        "teacher": "Батарчук",
         "classroom": "410(2)",
         "timeStart": "9:45",
         "timeEnd": "11:05"
       },
       {
         "name": "Ин. Яз.",
-        "teacher": "Бандарчук",
+        "teacher": "Батарчук",
         "classroom": "410(2)",
         "timeStart": "9:45",
         "timeEnd": "11:05"
@@ -340,14 +340,14 @@
     ],
     [{
         "name": "СПО",
-        "teacher": "хз кто",
+        "teacher": "Грубич-Борисенко",
         "classroom": "54(А)",
         "timeStart": "11:35",
         "timeEnd": "12:55"
       },
       {
         "name": "СПО",
-        "teacher": "хз кто",
+        "teacher": "Грубич-Борисенко",
         "classroom": "54(А)",
         "timeStart": "11:35",
         "timeEnd": "12:55"
