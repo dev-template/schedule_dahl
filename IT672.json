@@ -1,0 +1,388 @@
+[
+    [
+      [{
+          "name": "Теория Автоматов",
+          "teacher": "Поляченко",
+          "classroom": "43(А)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        },
+        {
+          "name": "Теория Автоматов",
+          "teacher": "Поляченко",
+          "classroom": "43(А)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        }
+      ],
+      [{
+          "name": "Физ. воспит.",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        },
+        {
+          "name": "Физ. воспит.",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        }
+      ],
+      [{
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        },
+        {
+          "name": "Прогр. WEB.",
+          "teacher": "Поляченко",
+          "classroom": "412(1)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        }
+      ],
+      [{
+        "name": "",
+        "teacher": "",
+        "classroom": "",
+        "timeStart": "",
+        "timeEnd": ""
+        },
+        {
+          "name": "Ин. яз.",
+          "teacher": "Батарчук",
+          "classroom": "54(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        }
+      ],
+      [{
+        "name": "",
+        "teacher": "",
+        "classroom": "",
+        "timeStart": "",
+        "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ]
+    ],
+    [
+      [{
+          "name": "Теория Алгоритмов",
+          "teacher": "Поляченко",
+          "classroom": "305(1)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        },
+        {
+          "name": "Теория Алгоритмов",
+          "teacher": "Поляченко",
+          "classroom": "305(1)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        }
+      ],
+      [{
+          "name": "Программирование WEB",
+          "teacher": "Поляченко",
+          "classroom": "43(А)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        },
+        {
+          "name": "Программирование WEB",
+          "teacher": "Поляченко",
+          "classroom": "43(А)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        }
+      ],
+      [{
+          "name": "Ин. Яз.",
+          "teacher": "Батарчук",
+          "classroom": "422(2)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        },
+        {
+          "name": "Ин. Яз.",
+          "teacher": "Батарчук",
+          "classroom": "422(2)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        }
+      ],
+      [{
+          "name": "Программирование WEB",
+          "teacher": "Поляченко",
+          "classroom": "420(1)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        },
+        {
+          "name": "Русский язык",
+          "teacher": "Машкович",
+          "classroom": "42(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        }
+      ],
+      [{
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ]
+    ],
+    [
+      [{
+        "name": "",
+        "teacher": "",
+        "classroom": "",
+        "timeStart": "",
+        "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ],
+      [{
+          "name": "Программирование",
+          "teacher": "Чигрина",
+          "classroom": "420(1)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        },
+        {
+          "name": "Программирование",
+          "teacher": "Чигрина",
+          "classroom": "420(1)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        }
+      ],
+      [{
+          "name": "Физ. воспит.",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        },
+        {
+          "name": "Физ. воспит.",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        }
+      ],
+      [{
+        "name": "Теория алгоритмов",
+        "teacher": "хз кто",
+        "classroom": "413(1)",
+        "timeStart": "13:05",
+        "timeEnd": "14:25"
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ],
+      [{
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ]
+    ],
+    [
+      [{
+          "name": "Мат. анализ",
+          "teacher": "Темникова",
+          "classroom": "54(А)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        },
+        {
+          "name": "Мат. анализ",
+          "teacher": "Темникова",
+          "classroom": "54(А)",
+          "timeStart": "8:15",
+          "timeEnd": "9:35"
+        }
+      ],
+      [{
+          "name": "Русский язык",
+          "teacher": "Машкович",
+          "classroom": "53(А)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        },
+        {
+          "name": "Русский язык",
+          "teacher": "Машкович",
+          "classroom": "53(А)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        }
+      ],
+      [{
+          "name": "Операционные сист.",
+          "teacher": "Кийко С.А",
+          "classroom": "420(1)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        },
+        {
+          "name": "Операционные сист.",
+          "teacher": "Кийко С.А",
+          "classroom": "420(1)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        }
+      ],
+      [{
+          "name": "Мат. анализ",
+          "teacher": "Темникова",
+          "classroom": "54(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        },
+        {
+          "name": "Мат. анализ",
+          "teacher": "Темникова",
+          "classroom": "54(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        }
+      ],
+      [{
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ]
+    ],
+    [
+      [{
+        "name": "Ин. Яз.",
+        "teacher": "Батарчук",
+        "classroom": "410(2)",
+        "timeStart": "9:45",
+        "timeEnd": "11:05"
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ],
+      [{
+        "name": "Теория автоматов",
+        "teacher": "хз кто",
+        "classroom": "426(1)",
+        "timeStart": "9:45",
+        "timeEnd": "11:05"
+        },
+        {
+          "name": "Теория автоматов",
+          "teacher": "хз кто",
+          "classroom": "426(1)",
+          "timeStart": "9:45",
+          "timeEnd": "11:05"
+        }
+      ],
+      [{
+          "name": "Программирование",
+          "teacher": "Петрушенко",
+          "classroom": "43(А)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        },
+        {
+          "name": "Программирование",
+          "teacher": "Петрушенко",
+          "classroom": "43(А)",
+          "timeStart": "11:35",
+          "timeEnd": "12:55"
+        }
+      ],
+      [{
+          "name": "Операционные сист.",
+          "teacher": "Кийко А.В",
+          "classroom": "33(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        },
+        {
+          "name": "Операционные сист.",
+          "teacher": "Кийко А.В",
+          "classroom": "33(А)",
+          "timeStart": "13:05",
+          "timeEnd": "14:25"
+        }
+      ],
+      [{
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        },
+        {
+          "name": "",
+          "teacher": "",
+          "classroom": "",
+          "timeStart": "",
+          "timeEnd": ""
+        }
+      ]
+    ]
+  
+  ]
