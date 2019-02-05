@@ -1,6 +1,10 @@
 [
   {
-    "name": "КСИТ",
+    "title": "КСИТ",
     "alias": "KSIT"    
+  },
+  {
+    "title": "ЕМ",
+    "alias": "EM"
   }
 ]
